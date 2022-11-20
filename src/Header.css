@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head1{
+    margin-top: 0px;
+    font-family:Quicksand;
+    padding: 10px;
+    text-align: center;
+    background-color: #F2DEBA;
+    display: block;
+    border-radius: 10px 10px 2px 2px;
+}
